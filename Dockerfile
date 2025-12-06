@@ -1,4 +1,4 @@
-FROM helicone/helicone-all-in-one:v2025.08.08
+FROM helicone/helicone-all-in-one:latest
 
 # Helicone exposes multiple ports:
 # 3000 - Web UI/Dashboard
